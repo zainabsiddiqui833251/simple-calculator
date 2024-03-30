@@ -1,12 +1,14 @@
 {
-  "name": "simple-calculator",
+  "name": "zs833-simple-calculator",
   "version": "1.0.0",
   "description": "A simple calculator using typescript,node.js and inquirer.",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "Zainab Siddiqui",
   "license": "MIT",
   "dependencies": {
